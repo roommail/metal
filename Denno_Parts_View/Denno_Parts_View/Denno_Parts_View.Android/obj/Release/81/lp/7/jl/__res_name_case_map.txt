@@ -1,0 +1,5 @@
+Values/Strings.xml;values/strings.xml
+drawable/default_scroll_handle_bottom.xml;drawable/default_scroll_handle_bottom.xml
+drawable/default_scroll_handle_left.xml;drawable/default_scroll_handle_left.xml
+drawable/default_scroll_handle_right.xml;drawable/default_scroll_handle_right.xml
+drawable/default_scroll_handle_top.xml;drawable/default_scroll_handle_top.xml
